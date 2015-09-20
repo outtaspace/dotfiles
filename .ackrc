@@ -1,0 +1,6 @@
+# use less by default and set its options
+--pager=less -R -M
+
+# always color
+#--color
+
